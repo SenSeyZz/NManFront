@@ -6,7 +6,7 @@ require('dotenv').config();
 
 const Trivia = () => {
   
-  const api_URI = ""
+  const api_URI = "https://nymphoman-8404b9daaff5.herokuapp.com"
 
   const initialData = [
     // Your initial data here

@@ -1,0 +1,19 @@
+.customTable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .customTable th,
+  .customTable td {
+    padding: 8px; /* Adjust the padding as needed */
+  }
+  
+  .customTable th {
+    background-color: #f2f2f2; /* Optional: Set background color for header */
+  }
+  
+  .customTable td {
+    border: 1px solid #dddddd;
+    text-align: center;
+  }
+  
